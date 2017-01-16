@@ -1,0 +1,56 @@
+Groudon @ Red Orb
+Ability: Drought
+EVs: 40 HP / 252 Atk / 128 SpD / 88 Spe
+Adamant Nature
+- Rock Polish
+- Precipice Blades
+- Swords Dance
+- Fire Punch
+
+Arceus-Water @ Splash Plate
+Ability: Multitype
+EVs: 252 HP / 240 Def / 16 Spe
+Bold Nature
+IVs: 0 Atk
+- Judgment
+- Defog
+- Recover
+- Toxic
+
+Yveltal @ Dread Plate
+Ability: Dark Aura
+EVs: 132 HP / 28 Atk / 252 SpA / 96 Spe
+Rash Nature
+- Dark Pulse
+- Oblivion Wing
+- Sucker Punch
+- U-turn
+
+Xerneas @ Power Herb
+Ability: Fairy Aura
+EVs: 252 HP / 248 Def / 8 Spe
+Bold Nature
+IVs: 0 Atk
+- Geomancy
+- Moonblast
+- Rest
+- Sleep Talk
+
+Lunala @ Choice Scarf
+Ability: Shadow Shield
+EVs: 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Moongeist Beam
+- Ice Beam
+- Psyshock
+- Focus Blast
+
+Bronzong @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 4 Atk / 252 SpD
+Sassy Nature
+- Stealth Rock
+- Gyro Ball
+- Toxic
+- Light Screen

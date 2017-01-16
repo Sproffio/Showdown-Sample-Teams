@@ -1,0 +1,58 @@
+GENEUBER (Genesect) @ Pinsirite  
+Ability: Download  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Shift Gear  
+- Extreme Speed  
+- Techno Blast  
+- Iron Head  
+
+RIP IN PIECE (Golisopod) @ Blue Orb  
+Ability: Emergency Exit  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Swords Dance  
+- First Impression  
+- Aqua Jet  
+- Liquidation  
+
+UNA PALMA (Exeggutor-Alola) @ Red Orb  
+Ability: Frisk  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 30 Def / 1 Spe  
+- Solar Beam  
+- Flamethrower  
+- Hidden Power [Ice]  
+- Trick Room  
+
+TOP LEL (Tapu Lele) @ Absolite  
+Ability: Psychic Surge  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Calm Mind  
+- Psychic  
+- Moonblast  
+- Hidden Power [Fire]  
+
+CUTIEPIE (Ribombee) @ Lucarionite  
+Ability: Shield Dust  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 1 Atk / 30 SpA / 30 SpD  
+- Quiver Dance  
+- Moonblast  
+- Bug Buzz  
+- Hidden Power [Ground]  
+
+FLYING CHURCH (Celesteela) @ Sablenite  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Leech Seed  
+- Protect  
+- Heavy Slam  
+- Earthquake  
+

@@ -1,0 +1,60 @@
+
+
+----  BIRB SPAM  ----
+ 
+Dragonite @ Salamencite  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Facade  
+- Earthquake  
+ 
+Celesteela @ Blue Orb  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Leech Seed  
+- Substitute  
+- Heavy Slam  
+- Earthquake  
+ 
+Tapu Lele @ Absolite  
+Ability: Psychic Surge  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Focus Blast  
+- Hidden Power [Fire]  
+ 
+Volcarona @ Red Orb  
+Ability: Flame Body  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Fire Blast  
+- Solar Beam  
+- Morning Sun  
+ 
+Tapu Koko @ Pinsirite  
+Ability: Electric Surge  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- Frustration  
+- Quick Attack  
+- Roost  
+ 
+Zygarde @ Pinsirite  
+Ability: Aura Break  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Thousand Arrows  
+- Substitute

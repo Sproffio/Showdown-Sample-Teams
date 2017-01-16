@@ -1,0 +1,57 @@
+Tfw no damage (Ninetales-Alola) (F) @ Icy Rock  
+Ability: Snow Warning  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Freeze-Dry  
+- Moonblast  
+- Aurora Veil  
+
+Tfw i'm dead (Marowak-Alola) (F) @ Thick Club  
+Ability: Lightning Rod  
+EVs: 248 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Bonemerang  
+- Shadow Bone  
+- Flare Blitz  
+- Will-O-Wisp  
+
+TopLel (Tapu Lele) @ Life Orb  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Calm Mind  
+- Psychic  
+- Moonblast  
+- Hidden Power [Fire]  
+
+salty flavour (Vanilluxe) (M) @ Focus Sash  
+Ability: Snow Warning  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 1 Atk / 30 SpA / 30 SpD  
+- Blizzard  
+- Freeze-Dry  
+- Hidden Power [Ground]  
+- Autotomize  
+
+iSlash (Sandslash-Alola) (M) @ Life Orb  
+Ability: Slush Rush  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Iron Head  
+- Icicle Crash  
+- Earthquake  
+
+Doublade @ Eviolite  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Swords Dance  
+- Shadow Sneak  
+- Sacred Sword  
+- Iron Head  
+

@@ -1,0 +1,59 @@
+Raichu @ Pidgeotite  
+Ability: Lightning Rod  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sing  
+- Substitute  
+- Thunder  
+- Focus Blast  
+
+Carbink @ Sablenite  
+Ability: Sturdy  
+EVs: 248 HP / 8 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Moonblast  
+- Toxic  
+- Magic Coat  
+
+Vanilluxe @ Red Orb  
+Ability: Ice Body  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Ice Beam  
+- Freeze-Dry  
+- Autotomize  
+
+Gourgeist-Super @ Aggronite  
+Ability: Frisk  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+- Will-O-Wisp  
+- Synthesis  
+- Leech Seed  
+- Gyro Ball  
+
+Zangoose @ Lopunnite  
+Ability: Immunity  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Quick Attack  
+- Frustration  
+- Close Combat  
+
+Klinklang @ Pinsirite  
+Ability: Clear Body  
+Happiness: 0  
+EVs: 252 Atk / 252 Spe  
+Adamant Nature  
+- Shift Gear  
+- Substitute  
+- Frustration  
+- Gear Grind  
+

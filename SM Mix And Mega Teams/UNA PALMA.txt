@@ -1,0 +1,59 @@
+Electivire @ Pinsirite  
+Ability: Motor Drive  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Frustration  
+- Wild Charge  
+- Low Kick  
+- Ice Punch  
+
+Golisopod @ Blue Orb  
+Ability: Emergency Exit  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Swords Dance  
+- Aqua Jet  
+- Liquidation  
+- Leech Life  
+
+Exeggutor-Alola @ Red Orb  
+Ability: Frisk  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Flamethrower  
+- Solar Beam  
+- Hidden Power [Ice]  
+
+Lycanroc @ Pinsirite  
+Ability: Steadfast  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Accelerock  
+- Stone Edge  
+- Frustration  
+
+Raikou @ Absolite  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Signal Beam  
+
+Tapu Lele @ Absolite  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Hidden Power [Fire]  
+- Moonblast  
+

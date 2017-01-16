@@ -1,0 +1,55 @@
+Rampardos @ Lucarionite  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rock Polish  
+- Earthquake  
+- Head Smash  
+- Superpower  
+
+Salazzle @ Red Orb  
+Ability: Corrosion  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Fire Blast  
+- Sludge Wave  
+- Hidden Power [Ground]  
+
+Mimikyu @ Metagrossite  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Shadow Sneak  
+- Shadow Claw  
+- Play Rough  
+
+Haxorus @ Blue Orb  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Dragon Claw  
+- Earthquake  
+- Poison Jab  
+
+Tornadus-Therian @ Red Orb  
+Ability: Regenerator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- U-turn  
+- Air Slash  
+- Heat Wave  
+- Focus Blast  
+
+Scizor @ Sablenite  
+Ability: Technician  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+- U-turn  
+- Bullet Punch  
+- Defog  
+- Roost  
+

@@ -1,0 +1,47 @@
+Dragonite @ Weakness Policy  
+Adamant Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Dragon Claw  
+- Roost  
+
+Porygon-Z @ Choice Scarf  
+Ability: Adaptability  
+Modest Nature  
+- Tri Attack  
+- Shadow Ball  
+- Psyshock  
+- Ice Beam  
+
+Lopunny @ Lopunnite  
+Ability: Cute Charm  
+Happiness: 0  
+Jolly Nature  
+- Fake Out  
+- Power-Up Punch  
+- High Jump Kick  
+- Frustration  
+
+Gengar @ Focus Sash  
+Timid Nature  
+- Taunt  
+- Destiny Bond  
+- Shadow Ball  
+- Sludge Wave  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+Bold Nature  
+- Toxic  
+- Wish  
+- Protect  
+- Seismic Toss  
+
+Avalugg @ Rocky Helmet  
+Ability: Own Tempo  
+Bold Nature  
+- Toxic  
+- Roar  
+- Recover  
+- Rapid Spin  
+

@@ -1,0 +1,58 @@
+----  BIRB SPAM  ----
+
+Pheromosa @ Metagrossite  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- U-turn  
+- High Jump Kick  
+- Ice Beam  
+- Lunge  
+
+Tapu Koko @ Aerodactylite  
+Ability: Electric Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- U-turn  
+- Brave Bird  
+- Roost  
+
+Xurkitree @ Absolite  
+Ability: Beast Boost  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunderbolt  
+- Dazzling Gleam  
+- Hidden Power [Ice]  
+
+Dragonite @ Salamencite  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Facade  
+- Earthquake  
+
+Yveltal @ Life Orb  
+Ability: Dark Aura  
+EVs: 132 HP / 28 Atk / 252 SpA / 96 Spe  
+Rash Nature  
+- U-turn  
+- Oblivion Wing  
+- Sucker Punch  
+- Heat Wave  
+
+Lycanroc @ Pinsirite  
+Ability: Steadfast  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Accelerock  
+- Stone Edge  
+- Frustration  
+

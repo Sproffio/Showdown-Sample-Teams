@@ -1,0 +1,55 @@
+Tower of grey (Victini) @ Choice Scarf
+Ability: Victory Star
+EVs: 252 Atk / 4 SpA / 252 Spe
+Hasty Nature
+- V-create
+- Bolt Strike
+- U-turn
+- Blue Flare
+
+Fire punch man (Metagross-Mega) @ Metagrossite
+Ability: Tough Claws
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Bullet Punch
+- Meteor Mash
+- Earthquake
+- Ice Punch
+
+D4C (Hoopa-Unbound) @ Choice Band
+Ability: Magician
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Zen Headbutt
+- Hyperspace Fury
+- Drain Punch
+- Trick
+
+Slowbro @ Rocky Helmet
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Scald
+- Flamethrower
+- Slack Off
+- Toxic
+
+Dragon's dream (Latios) @ Dragonium Z
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Draco Meteor
+- Hidden Power [Fire]
+- Defog
+- Roost
+
+Jirachi @ Leftovers
+Ability: Serene Grace
+EVs: 224 HP / 252 SpD / 32 Spe
+Careful Nature
+- Stealth Rock
+- Wish
+- U-turn
+- Fire Punch

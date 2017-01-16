@@ -1,0 +1,60 @@
+Drifblim @ Sitrus Berry  
+Ability: Unburden  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Minimize  
+- Substitute  
+- Baton Pass  
+- Shadow Ball  
+
+Lopunny @ Leftovers  
+Ability: Limber  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Cosmic Power  
+- Substitute  
+- Encore  
+- Baton Pass  
+
+Espeon @ Leftovers  
+Ability: Magic Bounce  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Stored Power  
+- Substitute  
+- Baton Pass  
+
+Scolipede @ Black Sludge  
+Ability: Speed Boost  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Protect  
+- Substitute  
+- Baton Pass  
+
+Venomoth @ Black Sludge  
+Ability: Wonder Skin  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Substitute  
+- Baton Pass  
+- Sleep Powder  
+
+Buneary @ Eviolite  
+Ability: Limber  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Ice Beam  
+- Thunderbolt  
+- Hidden Power [Dark]  
+

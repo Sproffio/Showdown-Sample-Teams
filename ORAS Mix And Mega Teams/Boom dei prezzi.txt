@@ -1,0 +1,60 @@
+Metaboom (Metagross) @ Pinsirite  
+Ability: Clear Body  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Frustration  
+- Agility  
+- Meteor Mash  
+- Explosion  
+
+Bangdorus (Landorus-Therian) @ Salamencite  
+Ability: Intimidate  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rock Polish  
+- Frustration  
+- Earthquake  
+- Explosion  
+
+Lickiboom (Lickilicky) @ Lopunnite  
+Ability: Own Tempo  
+Happiness: 0  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Explosion  
+- Hammer Arm  
+- Earthquake  
+- Frustration  
+
+Kamikazelf (Azelf) @ Altarianite  
+Ability: Levitate  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Frustration  
+- Zen Headbutt  
+- U-turn  
+- Explosion  
+
+Bangcie (Diancie) @ Gardevoirite  
+Ability: Clear Body  
+Happiness: 0  
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Diamond Storm  
+- Frustration  
+- Explosion  
+- Moonblast  
+
+Bangilluxe (Vanilluxe) @ Glalitite  
+Ability: Ice Body  
+Happiness: 0  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Lonely Nature  
+- Freeze-Dry  
+- Explosion  
+- Autotomize  
+- Frustration  
+

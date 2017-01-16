@@ -1,0 +1,56 @@
+Flygon @ Pinsirite  
+Ability: Levitate  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Frustration  
+- Quick Attack  
+- Earthquake  
+
+Muk-Alola @ Lucarionite  
+Ability: Poison Touch  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Crunch  
+- Gunk Shot  
+- Pursuit  
+- Rock Polish  
+
+Kyurem @ Blastoisinite  
+Ability: Pressure  
+Happiness: 0  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Dragon Pulse  
+- Roost  
+- Earth Power  
+
+Metagross @ Blue Orb  
+Ability: Clear Body  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Agility  
+- Meteor Mash  
+- Zen Headbutt  
+- Earthquake  
+
+Mismagius @ Red Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Mystical Fire  
+- Energy Ball  
+- Shadow Ball  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Transform  
+

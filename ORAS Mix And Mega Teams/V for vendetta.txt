@@ -1,0 +1,57 @@
+V for Victini (Victini) @ Lucarionite  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- V-create  
+- Zen Headbutt  
+- Flare Blitz  
+
+muh bvlk (Shuckle) @ Sablenite  
+Ability: Sturdy  
+EVs: 252 HP / 28 Def / 228 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Toxic  
+- Stealth Rock  
+- Sticky Web  
+- Encore  
+
+Gay Deo (Keldeo) @ Pidgeotite  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Focus Blast  
+- Hydro Pump  
+- Substitute  
+
+Fast Deo (Deoxys-Speed) @ Altarianite  
+Ability: Pressure  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Power-Up Punch  
+- Zen Headbutt  
+- Extreme Speed  
+- Frustration  
+
+it's raining men (Zapdos) @ Blue Orb  
+Ability: Pressure  
+IVs: 0 Atk / 30 Def  
+- Volt Switch  
+- Thunder  
+- Hidden Power [Ice]  
+- Roost  
+
+halleluja (Volcarona) @ Red Orb  
+Ability: Flame Body  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Fiery Dance  
+- Bug Buzz  
+- Solar Beam  
+

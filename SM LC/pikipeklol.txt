@@ -1,0 +1,63 @@
+guarda (Pikipek) @ Choice Scarf
+Ability: Skill Link
+Level: 5
+Shiny: Yes
+EVs: 236 Atk / 236 Spe
+Jolly Nature
+- Brave Bird
+- Bullet Seed
+- Brick Break
+- U-turn
+
+che (Vullaby) @ Eviolite
+Ability: Weak Armor
+Level: 5
+EVs: 116 HP / 236 SpA / 116 Spe
+Modest Nature
+IVs: 0 Atk
+- Nasty Plot
+- Dark Pulse
+- Air Slash
+- Heat Wave
+
+cadi (Drilbur) @ Berry Juice
+Ability: Mold Breaker
+Level: 5
+EVs: 36 HP / 76 Atk / 36 Def / 76 SpD / 212 Spe
+Jolly Nature
+- Earthquake
+- Rapid Spin
+- Rock Slide
+- Stealth Rock
+
+fra (Chinchou) @ Berry Juice
+Ability: Volt Absorb
+Level: 5
+EVs: 76 HP / 212 Def / 152 SpA / 60 Spe
+Bold Nature
+IVs: 1 Atk / 30 SpA / 30 SpD
+- Scald
+- Volt Switch
+- Hidden Power [Ground]
+- Heal Bell
+
+salsa (Grimer-Alola) @ Eviolite
+Ability: Poison Touch
+Level: 5
+EVs: 196 HP / 196 Atk / 116 Def
+Adamant Nature
+- Knock Off
+- Gunk Shot
+- Pursuit
+- Shadow Sneak
+
+wasabi (Foongus) @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 124 HP / 160 Def / 160 SpD
+Bold Nature
+IVs: 1 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Hidden Power [Fighting]

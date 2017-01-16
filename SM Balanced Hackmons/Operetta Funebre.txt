@@ -1,0 +1,57 @@
+Greninja-Ash @ Splash Plate  
+Ability: Water Bubble  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Steam Eruption  
+- Nasty Plot  
+- Oceanic Operetta  
+- Water Shuriken  
+
+Aegislash @ Safety Goggles  
+Ability: Flash Fire  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Spore  
+- Leech Seed  
+- Defog  
+- Recover  
+
+Steelix-Mega @ Leftovers  
+Ability: Soundproof  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Thousand Waves  
+- Perish Song  
+- King's Shield  
+- Leech Seed  
+
+Zekrom @ Zap Plate  
+Ability: Galvanize  
+EVs: 252 HP / 252 Atk / 4 SpA  
+Naughty Nature  
+- Fake Out  
+- Earthquake  
+- Extreme Speed  
+- Boomburst  
+
+Diancie-Mega @ Pixie Plate  
+Ability: Pixilate  
+EVs: 216 Atk / 40 SpA / 252 Spe  
+Hasty Nature  
+- Fake Out  
+- Magma Storm  
+- Boomburst  
+- Extreme Speed  
+
+Blissey @ Spooky Plate  
+Ability: Imposter  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spiky Shield  
+- Wish  
+- Taunt  
+- Whirlwind  
+

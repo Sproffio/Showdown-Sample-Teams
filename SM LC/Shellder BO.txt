@@ -1,0 +1,63 @@
+Gucci (Pawniard) @ Eviolite
+Ability: Defiant
+Level: 5
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe
+Jolly Nature
+- Knock Off
+- Iron Head
+- Sucker Punch
+- Stealth Rock
+
+Polo (Mudbray) @ Eviolite
+Ability: Stamina
+Level: 5
+Shiny: Yes
+EVs: 196 HP / 240 Atk
+Adamant Nature
+- Rest
+- Sleep Talk
+- Earthquake
+- Rock Slide
+
+Givenchy (Vullaby) @ Choice Scarf
+Ability: Overcoat
+Level: 5
+Shiny: Yes
+EVs: 236 Atk / 76 SpD / 196 Spe
+Jolly Nature
+- Brave Bird
+- Knock Off
+- U-turn
+- Tailwind
+
+Prada (Foongus) @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 124 HP / 160 Def / 160 SpD
+Bold Nature
+IVs: 0 Atk / 30 SpA / 30 Spe
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Hidden Power [Fire]
+
+Adidas (Shellder) @ Eviolite
+Ability: Skill Link
+Level: 5
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe
+Impish Nature
+- Shell Smash
+- Rock Blast
+- Icicle Spear
+- Razor Shell
+
+Nike (Magnemite) @ Choice Scarf
+Ability: Analytic
+Level: 5
+EVs: 240 SpA / 236 Spe
+Timid Nature
+IVs: 1 Atk / 30 SpA / 30 SpD
+- Volt Switch
+- Flash Cannon
+- Thunderbolt
+- Hidden Power [Ground]

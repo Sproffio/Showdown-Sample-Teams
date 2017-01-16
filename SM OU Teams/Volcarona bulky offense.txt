@@ -1,0 +1,58 @@
+Volcarona @ Firium Z  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Hidden Power [Ground]  
+- Fire Blast  
+- Giga Drain  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Moonblast  
+- Taunt  
+- Defog  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 Spe  
+Impish Nature  
+- Stealth Rock  
+- U-turn  
+- Earthquake  
+- Hidden Power [Ice]  
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Zen Headbutt  
+- Bullet Punch  
+- Ice Punch  
+
+Serperior @ Leftovers  
+Ability: Contrary  
+EVs: 200 HP / 56 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Leech Seed  
+- Leaf Storm  
+- Hidden Power [Fire]  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Hidden Power [Fire]  
+- Thunderbolt  
+

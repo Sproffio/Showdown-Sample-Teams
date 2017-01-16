@@ -1,0 +1,56 @@
+Tapu Koko @ Aerodactylite  
+Ability: Electric Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- U-turn  
+- Brave Bird  
+- Roost  
+
+Dragonite @ Salamencite  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Facade  
+- Earthquake  
+
+Golisopod @ Blue Orb  
+Ability: Emergency Exit  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Swords Dance  
+- Aqua Jet  
+- Liquidation  
+- Leech Life  
+
+Celesteela @ Sablenite  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Leech Seed  
+- Substitute  
+- Heavy Slam  
+- Earthquake  
+
+Vanilluxe @ Red Orb  
+Ability: Ice Body  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Autotomize  
+- Ice Beam  
+- Freeze-Dry  
+- Weather Ball  
+
+Gourgeist-Super @ Gyaradosite  
+Ability: Frisk  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Foul Play  
+- Leech Seed  
+- Synthesis  
+

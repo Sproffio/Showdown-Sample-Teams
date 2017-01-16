@@ -1,0 +1,57 @@
+dinosauro roar. (Groudon) @ Red Orb
+Ability: Drought
+Shiny: Yes
+EVs: 144 HP / 200 Atk / 148 SpD / 16 Spe
+Careful Nature
+- Earthquake
+- Fire Punch
+- Rock Slide
+- Stealth Rock
+
+BH ice king (Kyurem-Black) @ Glalitite
+Ability: Teravolt
+Happiness: 0
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Frustration
+- Fusion Bolt
+- Dragon Claw
+- Roost
+
+Dance to it! (Dragonite) @ Pinsirite
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Extreme Speed
+- Fire Punch
+- Dragon Dance
+- Dragon Claw
+
+BRB (Lucario) @ Pinsirite
+Ability: Justified
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Close Combat
+- Extreme Speed
+- Earthquake
+- Swords Dance
+
+Marta Middea (Gourgeist-Super) @ Gyaradosite
+Ability: Frisk
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+IVs: 0 Atk
+- Leech Seed
+- Synthesis
+- Foul Play
+- Will-O-Wisp
+
+IT'S GETTING COLD (Weavile) @ Glalitite
+Ability: Pressure
+Happiness: 0
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Feint
+- Fake Out
+- Frustration
+- Low Kick

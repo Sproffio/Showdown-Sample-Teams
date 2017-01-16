@@ -1,0 +1,61 @@
+Dewpider (M) @ Eviolite
+Ability: Water Bubble
+Level: 5
+EVs: 212 HP / 36 Atk / 100 Def / 20 SpD / 140 Spe
+Impish Nature
+- Rest
+- Sleep Talk
+- Leech Life
+- Liquidation
+
+Magnemite @ Berry Juice
+Ability: Sturdy
+Level: 5
+EVs: 36 Def / 236 SpA / 236 Spe
+Modest Nature
+IVs: 0 Atk
+- Volt Switch
+- Flash Cannon
+- Recycle
+- Magnet Rise
+
+Vullaby @ Eviolite
+Ability: Overcoat
+Level: 5
+EVs: 116 HP / 76 Atk / 236 Def / 76 SpD
+Impish Nature
+- Roost
+- Knock Off
+- Brave Bird
+- Defog
+
+Spritzee @ Eviolite
+Ability: Aroma Veil
+Level: 5
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe
+Bold Nature
+IVs: 0 Atk
+- Wish
+- Protect
+- Aromatherapy
+- Moonblast
+
+Timburr @ Eviolite
+Ability: Guts
+Level: 5
+EVs: 116 Atk / 156 Def / 236 SpD
+Careful Nature
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Bulk Up
+
+Pawniard @ Choice Scarf
+Ability: Defiant
+Level: 5
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe
+Jolly Nature
+- Knock Off
+- Iron Head
+- Pursuit
+- Stealth Rock

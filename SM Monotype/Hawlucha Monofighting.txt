@@ -1,0 +1,55 @@
+China (Kommo-o) (M) @ Life Orb
+Ability: Overcoat
+EVs: 28 Def / 252 SpA / 228 Spe
+Modest Nature
+IVs: 0 Atk
+- Autotomize
+- Clanging Scales
+- Focus Blast
+- Flamethrower
+
+Mlp (Keldeo) @ Choice Specs
+Ability: Justified
+EVs: 252 Atk / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Secret Sword
+- Scald
+- Icy Wind
+- Hydro Pump
+
+Rocky (Breloom) (M) @ Focus Sash
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Spore
+- Bullet Seed
+- Mach Punch
+- Rock Tomb
+
+Pablo escobar (Hawlucha) @ Red Card
+Ability: Unburden
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Swords Dance
+- High Jump Kick
+- Acrobatics
+- Poison Jab
+
+Jojo (Terrakion) @ Choice Scarf
+Ability: Justified
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Stone Edge
+- Iron Head
+- Earthquake
+
+Sun tzu (Infernape) @ Focus Sash
+Ability: Blaze
+EVs: 252 HP / 4 Atk / 252 Spe
+Hasty Nature
+- Stealth Rock
+- Close Combat
+- Fire Blast
+- Encore
